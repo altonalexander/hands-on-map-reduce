@@ -1,5 +1,5 @@
-hands-on-map-reduce
-========================
+https://github.com/altonalexander/hands-on-map-reduce
+--------
 
 Download and install the following files:
 -----
